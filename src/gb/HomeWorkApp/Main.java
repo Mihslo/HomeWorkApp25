@@ -8,6 +8,7 @@ public class Main {
         namber(-2);
         stringint("Intl", 6);
         System.out.println(year(2022));
+
     }
 
     public static boolean summ(int a, int b) {
